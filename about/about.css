@@ -39,9 +39,12 @@ body{
 }
 #about .About  h1{
     font-family: 'varela';
-    color:#293241 ;
-
-    font-size: 35px;
+    color:#fff9f9;
+    background-color: #333;
+    border-radius: 90px;
+    font-size:30px;
+    padding: 5px;
+    width: 50%;
 }
 #about .About p{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
@@ -73,9 +76,13 @@ body{
 }
 #pitch .pit  h1{
     font-family: 'varela';
-    color:#293241 ;
-    text-align:center;
-    font-size: 35px;
+    color:#fff9f9;
+    background-color: #333;
+    border-radius: 90px;
+    font-size:30px;
+    padding: 5px;
+    width: 50%;
+
 }
 #pitch .pit p{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
