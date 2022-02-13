@@ -1,4 +1,4 @@
-$.getJSON("data.json", function(json) {
+$.getJSON("./data.json", function(json) {
     console.log(json.jobs); 
     for (index = 0; index < json.jobs.length; index++) {
         // console.log(dataJ);
